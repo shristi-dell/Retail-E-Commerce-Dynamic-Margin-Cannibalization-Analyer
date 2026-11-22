@@ -85,6 +85,7 @@ Microsoft Excel: Tables, PivotTables, PivotCharts, Slicers, formulas (IF, SUM, A
 ## Files
 - `Retail_Margin_Cannibalization` CSV: full dataset (200,000 rows)
 - `dashboard.png`: dashboard screenshot
+- [Open the Excel dashboard](https://1drv.ms/x/c/299d1f24a3b7e74e/IQAnly3rLSQ_SoriDDTzvqJhAeOEOVWVu866nLqXFhg-PjU?e=BA1vGI)
 
 ## Author
 **Shristi Pal**, MCA (AI & ML) · [GitHub](https://github.com/shristi-dell)
